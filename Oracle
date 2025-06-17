@@ -1,3 +1,11 @@
 1. There are 60Million instruments in ALM ( Banking domain)
      repo contracts-->counter party
 2. In saasn Engine 25 B targetting 10 instruments
+
+| Instrument Type | Example in HDFC    | Oracle Perspective      |
+| --------------- | ------------------ | ----------------------- |
+| Deposit         | Fixed Deposit      | Liability instrument    |
+| Loan            | Home Loan          | Asset instrument        |
+| Bond            | Govt. Bond         | Investment instrument   |
+| Derivative      | Interest Rate Swap | Hedging/Risk instrument |
+| Bank Guarantee  | Trade Guarantee    | Contingent liability    |
